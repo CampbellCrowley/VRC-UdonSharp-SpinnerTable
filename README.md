@@ -22,5 +22,5 @@ Feel free to use this in your worlds, if possible please link back to this GitHu
   - Acceleration is degrees/s^2.
 
 # License
-MIT License
+MIT License  
 Please provide credits such that others can find this project.
