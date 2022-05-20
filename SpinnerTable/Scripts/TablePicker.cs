@@ -8,7 +8,7 @@ public class TablePicker : UdonSharpBehaviour {
   public Material table_mat;
   public Color[] table_col;
   public string[][] prompts;
-  public Question1[] tiles;
+  public TablePrompt[] tiles;
   public Image[] buttons;
 
   [UdonSynced] public int selected = 0;
